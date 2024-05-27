@@ -301,6 +301,15 @@ img {
   font-family: "Merienda", sans-serif;
   font-weight: normal;
   font-style: normal;
+  background: #446022;
+  background-image: url(cntbg.png);
+  background-size: 100%, 100%;
+
+}
+.valorantbody {
+  font-family: "Merienda", sans-serif;
+  font-weight: normal;
+  font-style: normal;
   background: #101822;
   background-image: url(valobg.png);
   background-size: 100%, 100%;
@@ -2329,12 +2338,15 @@ h3 {
 
 /* line 4, ../../Arafath/CL/December/236. Event-02/HTML/scss/_bradcam.scss */
 .bradcam_bg_valo {
+  background-image: url(nintech.png);
+}
+.bradcam_bg_val {
   background-image: url(../img/banner/valo.jpg);
 }
 
 /* line 7, ../../Arafath/CL/December/236. Event-02/HTML/scss/_bradcam.scss */
-.bradcam_bg_3 {
-  background-image: url(../img/banner/bradcam_3.png);
+.bradcam_bg_special {
+  background-image: url(../img/banner/special.png);
 }
 
 /* line 10, ../../Arafath/CL/December/236. Event-02/HTML/scss/_bradcam.scss */
